@@ -1,0 +1,18 @@
+# React / Node elements
+node_modules/
+/build
+/dist
+.env*.local
+
+# Java / Maven / Gradle elements
+target/
+build/
+.gradle/
+*.jar
+*.war
+
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
